@@ -10,6 +10,6 @@
     "type": "carousel",
     "title": "ewqrsdf",
     "name": "ewqrsdf",
-    "channelId": "83052333",
+    "channelId": "121494071",
     "layout": "bootstrap"
 }
