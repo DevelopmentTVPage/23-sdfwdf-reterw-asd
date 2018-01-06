@@ -23,7 +23,8 @@
             "widget_title_padding_left": "0",
             "widget_title_background_color": "rgba(0, 0, 0, 0.92)",
             "widget_title_margin_bottom": "0",
-            "widget_title_margin_left": "0"
+            "widget_title_margin_left": "0",
+            "widget_title_display": "none"
         },
         ".widget-body": {
             "body_font_family": "Open Sans"
