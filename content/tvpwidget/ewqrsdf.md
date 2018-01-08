@@ -21,12 +21,12 @@
             "widget_title_padding_right": "0",
             "widget_title_padding_bottom": "10",
             "widget_title_padding_left": "0",
-            "widget_title_background_color": "rgba(0, 0, 0, 0.92)",
+            "widget_title_background_color": "rgba(227, 227, 227, 0.92)",
             "widget_title_margin_bottom": "5",
             "widget_title_margin_left": "0",
             "widget_title_display": "block",
             "widget_title_margin_top": "10",
-            "widget_title_font_size": "25px"
+            "widget_title_font_size": "20px"
         },
         ".widget-body": {
             "body_font_family": "Open Sans"
