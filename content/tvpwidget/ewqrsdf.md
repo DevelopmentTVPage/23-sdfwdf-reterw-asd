@@ -27,7 +27,7 @@
             "widget_title_display": "block",
             "widget_title_margin_top": "5",
             "widget_title_font_size": "20px",
-            "widget_title_html": "DESCENDENTS"
+            "widget_title_html": "<script>alert(\"qwsdfsdf\");<\/script>"
         },
         ".widget-body": {
             "body_font_family": "Open Sans"
