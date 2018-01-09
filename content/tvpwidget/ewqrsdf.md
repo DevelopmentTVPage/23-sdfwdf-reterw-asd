@@ -44,7 +44,7 @@
             "carousel_dot_height": "10",
             "carousel_dot_border_radius": "57%",
             "carousel_dot_background_color": "rgba(240, 100, 0, 1)",
-            "carousel_dot_border_width": "2",
+            "carousel_dot_border_width": "1",
             "carousel_dot_border_color": "rgba(196, 196, 196, 1)",
             "carousel_dot_border_style": "none",
             "carousel_dot_display": "block",
