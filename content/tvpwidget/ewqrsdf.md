@@ -47,7 +47,8 @@
             "carousel_dot_border_width": "2",
             "carousel_dot_border_color": "rgba(196, 196, 196, 1)",
             "carousel_dot_border_style": "none",
-            "carousel_dot_display": "block"
+            "carousel_dot_display": "block",
+            "carousel_dot_hover_background_color": "rgba(222, 135, 0, 1)"
         }
     }
 }
