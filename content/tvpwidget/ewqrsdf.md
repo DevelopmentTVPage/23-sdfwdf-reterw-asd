@@ -24,7 +24,7 @@
             "widget_title_background_color": "rgba(255, 255, 255, 1)",
             "widget_title_margin_bottom": "5",
             "widget_title_margin_left": "0",
-            "widget_title_display": "block",
+            "widget_title_display": "none",
             "widget_title_margin_top": "5",
             "widget_title_font_size": "20px",
             "widget_title_html": "7876854"
