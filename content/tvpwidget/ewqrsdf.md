@@ -31,6 +31,9 @@
         },
         ".widget-body": {
             "body_font_family": "Open Sans"
+        },
+        ".carousel-arrow": {
+            "carousel_arrow_display": false
         }
     }
 }
