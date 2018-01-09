@@ -27,10 +27,13 @@
             "widget_title_display": "block",
             "widget_title_margin_top": "5",
             "widget_title_font_size": "20px",
-            "widget_title_html": "7876854"
+            "widget_title_html": "qweqsdwertferwe"
         },
         ".widget-body": {
             "body_font_family": "Open Sans"
+        },
+        ".carousel-arrow": {
+            "carousel_arrow_display": "block"
         }
     }
 }
