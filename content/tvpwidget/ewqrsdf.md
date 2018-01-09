@@ -33,7 +33,7 @@
             "body_font_family": "Open Sans"
         },
         ".carousel-arrow": {
-            "carousel_arrow_display": "none"
+            "carousel_arrow_display": "block"
         }
     }
 }
