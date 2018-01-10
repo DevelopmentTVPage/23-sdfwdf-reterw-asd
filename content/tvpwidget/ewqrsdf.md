@@ -51,7 +51,7 @@
             "carousel_dot_hover_background_color": "rgba(222, 135, 0, 1)"
         },
         ".video-item": {
-            "video_item_display_amount": "2"
+            "video_item_display_amount": "3"
         }
     }
 }
