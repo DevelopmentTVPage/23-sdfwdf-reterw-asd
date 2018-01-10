@@ -49,6 +49,9 @@
             "carousel_dot_border_style": "none",
             "carousel_dot_display": "none",
             "carousel_dot_hover_background_color": "rgba(222, 135, 0, 1)"
+        },
+        ".video-item": {
+            "video_item_display_amount": "2"
         }
     }
 }
